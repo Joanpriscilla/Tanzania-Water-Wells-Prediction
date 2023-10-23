@@ -105,12 +105,15 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 > <span style="color: blue">3. *Installers with the highest non functional wells*</span>
 
 
+
 [Image Alt Text](pictures/nonfunctionalinstallers.png)
 
 
 > <span style="color: blue">3. *Installers with the highest functional wells*</span>
 
+
 [Image Alt Text](pictures/functionalinstallers.png)
+
 
 1.Despite having the highest number of non_functional wells , DWE also has the highest number of functional wells.It is essential to investigate the causes of the high number of non-functional wells and consider improvements to installation and maintenance practices.
 
@@ -127,10 +130,13 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 
 [Image Alt Text](pictures/waterquality.png)
 
+
 Most wells are soft water wells. Followed by salty water wells. Unknown wells are mostly non functional.
 
 > <span style="color: blue">3. *Management Vs Well Functionality*</span>
 
+
 [Image Alt Text](pictures/management.png)
+
 
 VWC has the highest number of wells under its management followed by WUG. Trusts and schools have the lowest amount of wells under their management
