@@ -5,10 +5,8 @@
 ## Repository Structure
 >
 - README.md: The top level README for reviewers of this project
-- main_notebook.ipynb: narritive documentation of analysis in jupyter notebook
-- TanzaniaWaterWellsSlides.pdf: pdf version of project presentation slides
-- Data folder: Contains datasets used in this project
-
+- Final workbook.ipynb: narritive documentation of analysis in jupyter notebook
+- TANZANIA WATER WELLS PREDICTIONS.pdf: pdf version of project presentation slides
 ## Business problem
 >
 
