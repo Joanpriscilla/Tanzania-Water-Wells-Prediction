@@ -30,7 +30,8 @@ First data was prepared through filling missing values and dropping features tha
 
 ## Methods
 >
-To account for the class imbalance, SMOTE was used to oversample the "needs repair" and "nonfunctional" classes
+To account for the class imbalance, SMOTE was used to oversample the "needs repair" and "nonfunctional" classes.
+>
 Different models were used , each performing differently from the other one. The best performing model was the ensambled model.
 
 > Confusion matrix results of the Voting classifier
@@ -62,18 +63,28 @@ The accuracy is higher at 80%
 >
 
 > <span style="color: blue">*1. Class Imbalances*</span>
+
 Challanges faced during modelling were class imbalances which have greatly affected the scores of the functional needs repair class as observerd
+> 
 > <span style="color: blue">*2. Missing Information*</span>
+
 Missing information which made the cleaning process very t Principal Component Analysis.edious
+> 
 > <span style="color: blue">3. *Undefined Categories*</span>
-There were alot of undefined categories which had to be stored in the 'other' and 'unknown' placeholders\
+
+There were alot of undefined categories which had to be stored in the 'other' and 'unknown' placeholders
 
 #### FURTHER DIRECTIONS
 >
 > <span style="color: blue">1. *Modelling*</span>
+
 Experiment with more models.
+>
+>
 > <span style="color: blue">2. *Tuning*</span>
+
 It's possible that more fine tuning of models could bring more accuracy.
+>
 > <span style="color: blue">3. *Feature engineering*</span>
 
 More research could possibly bring up more features to add to the dataset or manipulation of certain features in the dataset to bring out more meaningful features.
