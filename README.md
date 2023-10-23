@@ -25,6 +25,7 @@ The approach for this project was to create many different model types to see wh
 First data was prepared through filling missing values and dropping features that did not seem useful to the analysis. EDA was also carried to to have an idea of how the data was distributed. Scaling using standard scaler and encoding was done with the goal of increasing accuracy of the models.
 
 
+
  ![Image Alt Text](pictures/statusgroup.png)
 
 ## Methods
@@ -33,8 +34,9 @@ To account for the class imbalance, SMOTE was used to oversample the "needs repa
 Different models were used , each performing differently from the other one. The best performing model was the ensambled model.
 
 > Confusion matrix results of the Voting classifier
+
 ![Image Alt Text](pictures/votingclassifiermatrix.png)
->
+
 ## Model interpratation comparing it to random forest classifier which was previously my best performing model
 >
 **Model 7** created through ensabling is the best performing model out of our 8 models with an accuracy of 80.
@@ -81,8 +83,9 @@ More research could possibly bring up more features to add to the dataset or man
  'voting_classifier_model.pkl' - model name
 
 ## Visual representation of the features used in my modeling and their level of importance
->
+
 ![Image Alt Text](pictures/importantfeatures.png)
+
 
 ## PREDICTIONS ON THE TEST DATA
 
@@ -91,15 +94,19 @@ Loaded the cleaned test data which had been cleaned using the same exact steps t
 Used the saved model to make predictions on this cleaned data.
 
 > <span style="color: blue">3. *water wells*</span>
->
+
+
 ![Image Alt Text](pictures/predictedlabels.png)
->
+
+
 
 From our observation, there are 8673 functional wells, 5380 non functional wells and 797 wells that needed repair.
 
 > <span style="color: blue">3. *Installers with the highest non functional wells*</span>
->
+
+
 [Image Alt Text](pictures/nonfunctionalinstallers.png)
+
 
 > <span style="color: blue">3. *Installers with the highest functional wells*</span>
 
@@ -117,10 +124,13 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 
 > <span style="color: blue">3. *Water Quality Vs Well Functionality*</span>
 
+
 [Image Alt Text](pictures/waterquality.png)
+
 Most wells are soft water wells. Followed by salty water wells. Unknown wells are mostly non functional.
 
 > <span style="color: blue">3. *Management Vs Well Functionality*</span>
+
 [Image Alt Text](pictures/management.png)
 
 VWC has the highest number of wells under its management followed by WUG. Trusts and schools have the lowest amount of wells under their management
