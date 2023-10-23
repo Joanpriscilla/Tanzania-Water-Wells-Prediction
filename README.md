@@ -104,7 +104,7 @@ Loaded the cleaned test data which had been cleaned using the same exact steps t
 
 Used the saved model to make predictions on this cleaned data.
 
-> <span style="color: blue">3. *water wells*</span>
+> <span style="color: blue"> *water wells*</span>
 
 
 ![Image Alt Text](pictures/predictedlabels.png)
@@ -113,7 +113,7 @@ Used the saved model to make predictions on this cleaned data.
 
 From our observation, there are 8673 functional wells, 5380 non functional wells and 797 wells that needed repair.
 
-> <span style="color: blue">3. *Installers with the highest non functional wells*</span>
+> <span style="color: blue"> *Installers with the highest non functional wells*</span>
 
 
 
