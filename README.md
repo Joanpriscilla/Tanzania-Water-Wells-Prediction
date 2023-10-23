@@ -112,7 +112,7 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 > <span style="color: blue">3. *Installers with the highest functional wells*</span>
 
 
-[Image Alt Text](pictures/functionalinstallers.png)
+[Image Alt Text](pictures/output.png)
 
 
 1.Despite having the highest number of non_functional wells , DWE also has the highest number of functional wells.It is essential to investigate the causes of the high number of non-functional wells and consider improvements to installation and maintenance practices.
