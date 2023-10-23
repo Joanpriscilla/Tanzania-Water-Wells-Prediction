@@ -120,7 +120,7 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 ![Image Alt Text](pictures/nonfunctionalinstallers.png)
 
 
-> <span style="color: blue">3. *Installers with the highest functional wells*</span>
+> <span style="color: blue">*Installers with the highest functional wells*</span>
 
 
 ![Image Alt Text](output.png)
@@ -136,7 +136,7 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 
 5.Hesawa has more functional wells(152) compared to the non-functional ones(84), suggesting their effectiveness in providing reliable water sources.
 
-> <span style="color: blue">3. *Water Quality Vs Well Functionality*</span>
+> <span style="color: blue">*Water Quality Vs Well Functionality*</span>
 
 
 ![Image Alt Text](pictures/waterquality.png)
@@ -144,7 +144,7 @@ From our observation, there are 8673 functional wells, 5380 non functional wells
 
 Most wells are soft water wells. Followed by salty water wells. Unknown wells are mostly non functional.
 
-> <span style="color: blue">3. *Management Vs Well Functionality*</span>
+> <span style="color: blue"> *Management Vs Well Functionality*</span>
 
 
 ![Image Alt Text](pictures/management.png)
