@@ -24,6 +24,7 @@ The approach for this project was to create many different model types to see wh
 
 First data was prepared through filling missing values and dropping features that did not seem useful to the analysis. EDA was also carried to to have an idea of how the data was distributed. Scaling using standard scaler and encoding was done with the goal of increasing accuracy of the models.
 
+
  ![Image Alt Text](pictures/statusgroup.png)
 
 ## Methods
